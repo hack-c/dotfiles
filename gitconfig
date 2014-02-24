@@ -1,0 +1,10 @@
+[user]
+	name = Charlie Hack
+	email = ch@mcash.no
+[merge]
+    tool = kdiff3
+    conflictstyle = diff3
+[alias]
+    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
+[push]
+    default = current

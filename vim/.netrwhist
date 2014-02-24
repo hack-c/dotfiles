@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/charliehack/Documents/docs/gists/42bb00376a1693e69ef9'
+let g:netrw_dirhist_2='/Users/charliehack/Documents/docs/gists/93ab31f0f4d651011d67'
+let g:netrw_dirhist_3='/Users/charliehack/Documents/docs/gists/55d3bfd1efbe545193cd'
+let g:netrw_dirhist_4='/Users/charliehack/Documents/mcash/mtg_notes'
+let g:netrw_dirhist_5='/Users/charliehack/mcash/docs/merchant-api'
+let g:netrw_dirhist_6='/Users/charliehack/mcash/src/mcash/docs-source/merchant-api/authentication'
