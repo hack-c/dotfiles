@@ -37,7 +37,7 @@ let mapleader=","
 " This loads all the plugins specified in ~/.vim/vundle.vim
 " Use Vundle plugin to manage all other plugins
 if filereadable(expand("~/.vim/vundles.vim"))
-source ~/.vim/vundles.vim
+    source ~/.vim/vundles.vim
 endif
 
 " ================ Turn Off Swap Files ==============
@@ -67,9 +67,6 @@ set expandtab
 
 filetype plugin on
 filetype indent on
-
-" Display tabs and trailing spaces visually
-set list listchars=tab:\ \ ,trail:·
 
 set nowrap       "Don't wrap lines
 set linebreak    "Wrap lines at convenient points
@@ -106,7 +103,4 @@ set sidescroll=1
 nmap \s $
 
 execute pathogen#infect()
-
-set background=dark
-colorscheme solarized
 

@@ -22,7 +22,6 @@ export LC_ALL=
 export LC_CTYPE=C 
 export LANG=C
 
-source ~/.git-completion.bash
 source ~/.bash-git-prompt/gitprompt.sh
 
 export C_INCLUDE_PATH=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/libxml2:$C_INCLUDE_PATH
